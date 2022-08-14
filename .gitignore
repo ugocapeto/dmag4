@@ -1,0 +1,4 @@
+# ignore object files and selected directories
+*.o
+lis/
+lis-1.4.11/

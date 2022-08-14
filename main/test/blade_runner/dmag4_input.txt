@@ -1,0 +1,9 @@
+BLADE-RUNNER.jpg
+sparse.png
+?
+depth.png
+90
+5000
+2
+2
+1
